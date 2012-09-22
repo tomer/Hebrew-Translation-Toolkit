@@ -61,7 +61,7 @@ replacements = [ {'search': u' ל-',	'replace': u' ל־'},
                  {'search': u' עידכונים ',	'replace': u' עדכונים '},                                  
                  {'search': u' איזור ',	'replace': u' אזור '},                  
                  {'search': u' מסויים ',	'replace': u' מסוים '}, 
-                 {'search': u' ,תיהיה ',	'replace': u' תהיה '}, 
+                 {'search': u' תיהיה ',	'replace': u' תהיה '}, 
                  {'search': u' גלובאלי ',	'replace': u' גלובלי '}, 
                  ]
                  
