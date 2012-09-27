@@ -65,6 +65,9 @@ replacements = [ {'search': u' ל-',	'replace': u' ל־'},
                  {'search': u' מסויים ',	'replace': u' מסוים '}, 
                  {'search': u' תיהיה ',	'replace': u' תהיה '}, 
                  {'search': u' גלובאלי ',	'replace': u' גלובלי '}, 
+                 {'search': u' איחסון ',	'replace': u' אחסון '}, 
+                 {'search': u' לאכסן ',	'replace': u' לאחסן '}, 
+                 {'search': u' איכסון ',	'replace': u' אחסון '}, 
                  ]
                  
 
